@@ -1,1 +1,1 @@
-Wrong branch go to master branch\
+Wrong branch go to master branch
